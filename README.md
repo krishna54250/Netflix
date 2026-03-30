@@ -4,7 +4,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
-![image](https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS/assets/93814546/4959b8ef-266f-4194-8709-b90223d69b2e)
+![image]
 
 ## Features
 
@@ -17,17 +17,12 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 To get started with this project, follow these steps:
 
-1. Clone the repository:
 
-```bash
-git clone https://github.com/alok-2002/Netflix_Home_Page_Using_HTML_And_CSS.git
-```
+1. Open the project in your preferred code editor.
 
-2. Open the project in your preferred code editor.
+2. Launch the `index.html` file in a web browser to view the Netflix home page.
 
-3. Launch the `index.html` file in a web browser to view the Netflix home page.
-
-4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
+3. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
 
 ## Contributing
 
